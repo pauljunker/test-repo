@@ -1,0 +1,41 @@
+religion~religion_grouped
+Agnostic (not sure if there is a God)~Agnostic/Atheist
+Asatru (Old Norse form of Paganism) (VOL)~Other / None / No Ans
+Atheist (do not believe in God)~Agnostic/Atheist
+Buddhist~Buddhist
+Christian (VOL)~Other Christian
+Deist (VOL)~Other / None / No Ans
+Don't know/Refused (VOL)~Other / None / No Ans
+Hindu~Other / None / No Ans
+International Bible Students (VOL)~Other Christian
+Jehovah's Witness (VOL)~Other Christian
+Jewish (Judaism)~Jewish
+Liberal faith (VOL)~Other / None / No Ans
+Mormon (Church of Jesus Christ of Latter-day Saints/LDS)~Other / None / No Ans
+Muslim (Islam)~Muslim
+New Age (VOL)~Other / None / No Ans
+Not Interpretable~Other / None / No Ans
+Nothing in particular~Agnostic/Atheist
+Orthodox (Greek, Russian, or some other orthodox church)~Other Christian
+Pagan (VOL)~Other / None / No Ans
+Protestant~Protestant
+Roman Catholic~Catholic
+Spiritual but not religious (VOL)~Spiritual
+Spiritualist (VOL)~Spiritual
+Transcendental meditation/Meditation (VOL)~Spiritual
+Unitarian (Universalist) (VOL)~Other Christian
+Unity; Unity Church Christ Church Unity (VOL)~Other Christian
+Wica (Wiccan) (VOL)~Other / None / No Ans
+Christian Scientist (VOL)~Other Christian
+Confucian (VOL)~Other / None / No Ans
+Greek rite Catholic/Eastern Rite Catholic (VOL)~Other Christian
+Jains (VOL)~Other / None / No Ans
+Mixed Christians (e.g., Catholic AND Protestant) (VOL)~Other Christian
+Mixed non-Christians (VOL)~Other / None / No Ans
+National Catholic; Polish National Catholic (VOL)~Other Christian
+Native American Religions (VOL)~Other / None / No Ans
+Old Catholic (VOL)~Other Christian
+Other/Not Interpretable (VOL)~Other / None / No Ans
+Pantheist (VOL)~Other / None / No Ans
+Unity; Unity Church; Christ Church Unity (VOL)~Other Christian
+Wicca (Wiccan) (VOL)~Other / None / No Ans
